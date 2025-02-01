@@ -1,4 +1,4 @@
-# BrainQuest
+
 # Brain Quest - Interactive Quiz Application
 
 Brain Quest is a modern, interactive quiz application built with React that features gamification elements, smooth animations, and an engaging user interface. Test your knowledge while enjoying a visually appealing and responsive design.
